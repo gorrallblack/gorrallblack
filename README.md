@@ -1,5 +1,7 @@
 ### Hola, I'm Asif Khan! 👋
 
+Android & IOS Developer
+
 - 🔭 I’m currently working on StudyIQ
 - 💬 Ask me about Andorid or any tech related stuff
 - 📫 How to reach me: [Email - @Asif Khan](mailto:gorrallblack@gmail.com), [Linkedin - @Asif Khan](linkedin.com/in/asif-khan-mobile)
