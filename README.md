@@ -1,10 +1,10 @@
-### Hola, I'm Asif Khan! 👋
+### Hola, I'm Gorr All Blackx! 👋
 
 Android & IOS Developer
 
 - 🔭 I’m currently working on StudyIQ
 - 💬 Ask me about Andorid or any tech related stuff
-- 📫 How to reach me: [Email - @Asif Khan](mailto:gorrallblack@gmail.com), [Linkedin - @Asif Khan](linkedin.com/in/asif-khan-mobile)
+- 📫 How to reach me: [Email - @Gorr All Blackx](mailto:gorrallblack@gmail.com), [Linkedin - @Gorr All Blackx](linkedin.com/in/asif-khan-mobile)
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
 ## Skills and Experience
